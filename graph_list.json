@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Fetch Gold Price",
+        "author": "GraphLinq Team",
+        "description": "Fetch the gold price from a API",
+        "url": "https://raw.githubusercontent.com/GraphLinq/Graph-Templates/master/Fetch%20Gold%20Price.glq"
+    }
+]
